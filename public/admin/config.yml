@@ -3,7 +3,6 @@ backend:
   repo: AndrezBlu3/bluedev
   branch: master
   path: public
-  base_url: 'https://comforting-kataifi-1b7868.netlify.app/'
   auth_endpoint: api/auth
 
 # publish_mode: editorial_workflow
