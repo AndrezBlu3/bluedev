@@ -1,9 +1,7 @@
 backend:
-  name: 'github'
+  name: git-gateway
   repo: AndrezBlu3/bluedev
   branch: master
-  path: public
-  auth_endpoint: api/auth
 
 # publish_mode: editorial_workflow
 media_folder: 'src/assets/images/posts' # Media files will be stored in the repo under src/assets/images/posts
